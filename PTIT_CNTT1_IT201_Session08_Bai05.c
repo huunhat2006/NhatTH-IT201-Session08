@@ -29,3 +29,6 @@ int main(void) {
     free(a);
     return 0;
 }
+//độ phức tạp tốt nhất O(n)
+//độ phức tạp trung bình O(n²)
+//độ phức tạp xấu nhất O(n²)
