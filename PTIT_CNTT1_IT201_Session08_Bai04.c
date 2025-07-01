@@ -31,3 +31,5 @@ int main(void) {
     free(a);
     return 0;
 }
+
+//độ phức tạp tốt nhất, trung bình, xấu nhât O(n²)
